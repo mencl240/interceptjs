@@ -14,7 +14,7 @@
         var settings = $.extend({
             pagenum: 0,
             power_switch: 1,
-            user_override: 0,
+   
             percent: 100,
             google_analytics: 0,
             session_duration: 24,
